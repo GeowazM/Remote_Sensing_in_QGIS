@@ -46,12 +46,19 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 ## 2. Download Sentinel-2 data
 
 
+<br>
+<br>
+<br>
+
      
 More information & tutorials:
 - [SCP blog](https://fromgistors.blogspot.com/)
 - [SCP youtube channel](https://www.youtube.com/user/fromgistors)
 
    
-   
+<br>
+<br>
+<br>
+
   
 </div>
