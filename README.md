@@ -3,14 +3,12 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 
 #### Technical requirments
-- Download and install QGIS 2.16 Long term release ([Link to download](https://qgis.org/en/site/forusers/download.html))
-- Account for the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home)
-  - If you need an account you can register [here](https://scihub.copernicus.eu/dhus/#/self-registration) 
+- Download and install QGIS 2.16 Long term release ([Link to download](https://qgis.org/en/site/forusers/download.html)) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/QGIS_logo_2017.png" alt="QGIS logo" width="75"><br>
+- Account for the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/openhub_service.svg" alt="Copernicus Open Access Hub logo" width="40">
+   - If you need an account you can register [here](https://scihub.copernicus.eu/dhus/#/self-registration) 
 
-<br>
-
-
-<img src="images/QGIS_logo_2017.png" alt="QGIS logo" width="200">
 
 <br>
 
@@ -32,12 +30,11 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 
 
-## 1. Install the Semi-Automatic Classification Plugin (SCP)
+## What is the Semi-Automatic Classification Plugin (SCP)
 [![Semi-Automatic Classification Plugin video](images/SCP_video.PNG)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
 
-<br>
 
-[![Semi-Automatic Classification Plugin video](https://img.youtube.com/vi/bzynTxwOcYQ&t=65s/0.jpg)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
+## 1. Install the Semi-Automatic Classification Plugin (SCP)
 
 
 ## 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
