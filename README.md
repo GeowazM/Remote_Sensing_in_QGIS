@@ -42,6 +42,10 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 
+<br>
+<br>
+<br>
+
 
 ## 2. Download Sentinel-2 data
 
