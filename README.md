@@ -21,6 +21,15 @@ A course to present the Semi-Automatic Classification Plugin in QGIS
 ## Our goal for today
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
-3. Preprocess the Sentinel-2 data
-4. Calculate [NDVI](https://eos.com/make-an-analysis/ndvi/) (https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) & [NDWI](https://eos.com/make-an-analysis/ndwi/) (https://en.wikipedia.org/wiki/Normalized_difference_water_index)
+3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
+4. Calculate [NDVI](https://www.dlr.de/eoc/desktopdefault.aspx/tabid-9142/19518_read-45426/) & [NDWI](https://foodsecurity-tep.net/node/214)
 5. Perform an [image classification](https://gisgeography.com/image-classification-techniques-remote-sensing/)
+
+
+
+## 1. Install the [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
+
+## 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
+
