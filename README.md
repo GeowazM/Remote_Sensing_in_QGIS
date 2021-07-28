@@ -1,5 +1,5 @@
 # Remote Sensing in QGIS
-A course to present the Semi-Automatic Classification Plugin in QGIS
+An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 
 #### Technical requirments
@@ -7,7 +7,11 @@ A course to present the Semi-Automatic Classification Plugin in QGIS
 - Account for the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home)
   - If you need an account you can register [here](https://scihub.copernicus.eu/dhus/#/self-registration) 
 
+<br>
 
+![QGIS logo](images/QGIS_logo_2017.png =100x20)
+
+<br>
 
 #### Skills needed
 - Basics in remote sensing
