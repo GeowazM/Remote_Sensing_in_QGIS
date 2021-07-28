@@ -27,9 +27,13 @@ A course to present the Semi-Automatic Classification Plugin in QGIS
 
 
 
-## 1. Install the [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html)
+## 1. Install the Semi-Automatic Classification Plugin (SCP)
+[![Semi-Automatic Classification Plugin video](images/SCP_video.PNG)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
+<br>
+
+[![Semi-Automatic Classification Plugin video](https://img.youtube.com/vi/bzynTxwOcYQ&t=65s/0.jpg)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
+
 
 ## 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
 
