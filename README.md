@@ -67,19 +67,29 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 ## 2. Download Sentinel-2 data
 
+UNESCO World Heritage in Danger: The example of [Abu Mena](https://whc.unesco.org/en/list/90)
 Sentinel Szene: RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 <br>
 <br>
 <br>
+   
    
 ## 4. Preprocess Sentinel-2 data
 
 <br>
 <br>
 
-## 4. Calculate NDVI & NDWI
-
+After the preprocessing your data can look like these examples:
+<img src="images/s2_tcc-fcc.png" alt="Sentinel-2 true colour composite (left) & false colour composite (rigth)" width="1920">
+  
+<br>
    
+## 4. Calculate NDVI & NDWI
+<br>
+
+After preprocessing your data can look like these examples:
+<img src="images/s2_ndwo-ndwi.png" alt="Sentinel-2 NDVI (left) & NDWI (rigth)" width="1920">
+  
 <br>
 <br>
 
