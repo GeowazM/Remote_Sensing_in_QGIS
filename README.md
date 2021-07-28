@@ -30,12 +30,20 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 
 
-## What is the Semi-Automatic Classification Plugin (SCP)
-[![Semi-Automatic Classification Plugin video](images/SCP_video.PNG)](https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s)
+## What is the Semi-Automatic Classification Plugin (SCP)?
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="750"
+</div>
+
+<br>
+
+<div align="left">
 
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 
 
-## 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
+## 2. Download Sentinel-2 data
 
+
+</div>
