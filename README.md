@@ -9,7 +9,8 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 <br>
 
-![QGIS logo](images/QGIS_logo_2017.png =100x20)
+
+<img src="images/QGIS_logo_2017.png" alt="QGIS logo" width="200">
 
 <br>
 
