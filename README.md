@@ -29,7 +29,7 @@ An introductio to work with the **Semi-Automatic Classification Plugin** in QGIS
 
 
 
-## What is the Semi-Automatic Classification Plugin (SCP)? &nbsp;&nbsp;&nbsp; <img src="images/semi-automatic_classification_plugin.png" alt="semi-automatic_classification_plugin" width="50">
+## What is the Semi-Automatic Classification Plugin (SCP)?
 
 **The Semi-Automatic Classification Plugin (SCP) is a free open source plugin for QGIS that allows for the supervised classification of remote sensing images, providing tools for the download, the preprocessing and postprocessing of images (Congedo 2020).**
 
@@ -69,6 +69,17 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 Sentinel Szene: RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 <br>
+<br>
+<br>
+   
+## 4. Preprocess Sentinel-2 data
+
+<br>
+<br>
+
+## 4. Calculate NDVI & NDWI
+
+   
 <br>
 <br>
 
