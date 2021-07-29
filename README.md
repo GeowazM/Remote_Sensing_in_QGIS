@@ -23,6 +23,14 @@ We are using the Semi-Automatic Classification Plugin.
 <br>
 
 ## Our goal for today
+
+Using GIS and Remote Sensing to proof why [Abu Mena](https://whc.unesco.org/en/list/90) is a *World Heritage in Danger*
+
+To be part of the World Heritage List, sites must be of outstanding universal value.
+The List of World Heritage in Danger is designed to inform the international community of conditions which threaten the very characteristics for which a property was inscribed on the World Heritage List, and to encourage corrective action.
+
+
+#### The steps to achieve our goal
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
 3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
@@ -63,6 +71,8 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 
+https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
+  
 <br>
 <br>
 <br>
@@ -70,7 +80,6 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 ## 2. Download Sentinel-2 data
 
-UNESCO World Heritage in Danger: The example of [Abu Mena](https://whc.unesco.org/en/list/90)
 
 - Sentinel Szene: RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 <br>
