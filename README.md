@@ -24,11 +24,15 @@ We are using the Semi-Automatic Classification Plugin.
 
 ## Our goal for today
 
-Using GIS and Remote Sensing to proof why [Abu Mena](https://whc.unesco.org/en/list/90) is a *World Heritage in Danger*
+#### Using GIS and Remote Sensing tools to proof why [Abu Mena](https://whc.unesco.org/en/list/90) is a *World Heritage in Danger*
 
-To be part of the World Heritage List, sites must be of outstanding universal value.
-The List of World Heritage in Danger is designed to inform the international community of conditions which threaten the very characteristics for which a property was inscribed on the World Heritage List, and to encourage corrective action.
-
+*Background knowledge:* To be part of the **World Heritage List**, sites must be of **outstanding universal value**.
+The List of **World Heritage in Danger** is designed to inform the international community of conditions which **threaten the very characteristics for which a property was inscribed** on the World Heritage List, and to encourage corrective action.
+<div align="center">
+  <img src="images/Logo-UNESCO-WHL.png" alt="Logo-UNESCO-WHL" width="250">
+</div>
+ 
+<br>
 
 #### The steps to achieve our goal
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
@@ -67,6 +71,15 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 ---
 
+  
+#### The steps to achieve our goal
+1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
+2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
+3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
+4. Calculate [NDVI](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9142/19518_read-45426/) & [NDWI](https://foodsecurity-tep.net/node/214)
+5. Perform an [image classification](https://gisgeography.com/image-classification-techniques-remote-sensing/)
+
+  
 <br>
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
@@ -77,9 +90,14 @@ https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
 <br>
 <br>
 
-
+  
 ## 2. Download Sentinel-2 data
 
+> Donwload products <br>
+> Login data <br>
+> Login Sentinels <br>
+> Service: https://scihub.copernicus.eu/apihub <br>
+> User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
 - Sentinel Szene: RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 <br>
