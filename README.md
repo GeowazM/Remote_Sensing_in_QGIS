@@ -93,6 +93,9 @@ https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
   
 ## 2. Download Sentinel-2 data
 
+ - After installing of the SCP take care that the plugin is acivated (image button).<br>
+ - Start to open the Download tab of the SCP with (image download button) 
+  
 > Donwload products <br>
 > Login data <br>
 > Login Sentinels <br>
@@ -118,6 +121,15 @@ https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
 ## 4. Calculate NDVI & NDWI
 <br>
 
+  
+  
+The NDWI results from the following equation: 
+> Index = (NIR - MIR)/ (NIR + MIR) 
+
+  Using Sentinel-2 Band 8 (NIR) and Band 12 (MIR). The NDWI is an index which is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996))
+
+<br>  
+  
 ###### After preprocessing your data can look like these examples:
 <img src="images/s2_ndvo-ndwi.png" alt="Sentinel-2 NDVI (left) & NDWI (rigth)" width="1920">
   
