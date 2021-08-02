@@ -86,7 +86,7 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 https://www.youtube.com/watch?v=R613_HqT4qo
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="750"></a>
+  <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/SCP_screen.PNG" alt="Install SCP" width="750"></a>
 </div>
 <br>
 <br>
@@ -95,8 +95,8 @@ https://www.youtube.com/watch?v=R613_HqT4qo
   
 ## 2. Download Sentinel-2 data
 
- - After installing of the SCP take care that the plugin is acivated (image button).<br>
- - Start to open the Download tab of the SCP with (image download button) 
+ - After installing of the SCP take care that the plugin is acivated <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="30">(image button).<br>
+ - Start to open the Download tab of the SCP with <img src="images/download_data.PNG" alt="SCP download button" width="30">(image download button) 
   
 > Donwload products <br>
 > Login data <br>
