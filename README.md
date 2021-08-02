@@ -85,7 +85,7 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 <br>
   
-Watch the following video in a new tab (30 sec) and install the SCP plugin.
+Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 sec) and install the SCP plugin.
   
 <div align="center">
   <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/scp_screen.PNG" alt="Install SCP" width="750"></a>
