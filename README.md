@@ -111,7 +111,9 @@ Watch the following video in a new tab (30 sec) and install the SCP plugin.
     - Select a a *Product* 
     - Select a temporal range with *Date from*
     - Define *Max cloud cover*
-    - Set an area of interest with &nbsp;&nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
+    - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
+      - left click = upper left corner
+      - rigth click = lower rigth corner
  
 - Select a appropriate Sentinel-2 scene i.e. 6 April 2021 
   
