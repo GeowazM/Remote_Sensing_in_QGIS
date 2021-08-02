@@ -112,8 +112,8 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
     - Select a temporal range with *Date from*
     - Define *Max cloud cover*
     - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
-      - left click = upper left corner
-      - rigth click = lower rigth corner
+      - left-hand click = upper left corner
+      - rigth-hand click = lower rigth corner
  
 - Select a appropriate Sentinel-2 scene i.e. 6 April 2021 
   
@@ -129,6 +129,10 @@ RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
    
 ## 3. Preprocess Sentinel-2 data
 - Create a band stack
+<br>
+  
+&nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="30">
+  
 <br>
 <br>
 <br> 
@@ -153,6 +157,9 @@ The NDWI results from the following equation:
 > NDWI = ( NIR - MIR ) / ( NIR + MIR ) 
 
 <br> 
+  
+&nbsp; <img src="images/band_calc.PNG" alt="SCP band calculator button" width="30">
+  
 <br> 
 <br> 
   
