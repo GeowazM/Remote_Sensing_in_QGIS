@@ -24,7 +24,7 @@ We are using the Semi-Automatic Classification Plugin.
 
 ## Our goal for today
 
-#### Using GIS and Remote Sensing tools to proof why [Abu Mena](https://whc.unesco.org/en/list/90) is a *World Heritage in Danger*
+### Using GIS and Remote Sensing tools to proof why the World Heritage Site [Abu Mena](https://whc.unesco.org/en/list/90) is a in Danger
 
 *Background knowledge:* To be part of the **World Heritage List**, sites must be of **outstanding universal value**.
 The List of **World Heritage in Danger** is designed to inform the international community of conditions which **threaten the very characteristics for which a property was inscribed** on the World Heritage List, and to encourage corrective action.
