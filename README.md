@@ -84,8 +84,10 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 
-https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
-  
+https://www.youtube.com/watch?v=R613_HqT4qo
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="750"></a>
+</div>
 <br>
 <br>
 <br>
@@ -121,14 +123,20 @@ https://www.youtube.com/watch?v=KkiEdcu5dzs&t=35s
 ## 4. Calculate NDVI & NDWI
 <br>
 
+The Normalized Difference Vegetation Index (NDVI) is an indicator of healthy vegetation and thus closely linked to vegetation density and productivity (Tucker & Sellers 1986). The NDVI is calculated using the spectral reflectance measurements of the red and infrared (NIR) wavelength and can range from -1 to +1.
+
+> NDVI = ( NIR – red ) / ( NIR + red )
   
-  
+<br>
+
+The NDWI is an index which is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
+
 The NDWI results from the following equation: 
-> Index = (NIR - MIR)/ (NIR + MIR) 
+> NDWI = ( NIR - MIR ) / ( NIR + MIR ) 
 
-  Using Sentinel-2 Band 8 (NIR) and Band 12 (MIR). The NDWI is an index which is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996))
-
-<br>  
+<br> 
+<br> 
+<br> 
   
 ###### After preprocessing your data can look like these examples:
 <img src="images/s2_ndvo-ndwi.png" alt="Sentinel-2 NDVI (left) & NDWI (rigth)" width="1920">
