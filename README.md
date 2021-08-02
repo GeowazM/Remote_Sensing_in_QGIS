@@ -53,7 +53,7 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="750"></a>
+  <a href="https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="550"></a>
 </div>
 
 
@@ -83,20 +83,23 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 <br>
 
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
-
-https://www.youtube.com/watch?v=R613_HqT4qo
+<br>
+  
+Watch the following video in a new tab (30 sec) and install the SCP plugin.
+  
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/SCP_screen.PNG" alt="Install SCP" width="750"></a>
+  <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/scp_screen.PNG" alt="Install SCP" width="750"></a>
 </div>
-<br>
-<br>
-<br>
 
+  
+<br>
+<br>
+<br> 
   
 ## 2. Download Sentinel-2 data
 
  - After installing of the SCP take care that the plugin is acivated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
- - Start to open the download tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+ - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
   
 > Donwload products <br>
 > Login data <br>
@@ -104,8 +107,17 @@ https://www.youtube.com/watch?v=R613_HqT4qo
 > Service: https://scihub.copernicus.eu/apihub <br>
 > User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
-- 
-- Select the Sentinel-2 scene of 6 of April 2021 
+- Switch to the *Search* tab & set the search parameters
+    - Select a a *Product* 
+    - Select a temporal range with *Date from*
+    - Define *Max cloud cover*
+    - Set an area of interest with &nbsp;&nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
+ 
+- Select a appropriate Sentinel-2 scene i.e. 6 April 2021 
+  
+- Now we click to the *Download options* tab
+  - the check boxes of all Sentinel-2 bands need to be activated
+  
   
 RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 <br>
@@ -117,6 +129,7 @@ RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 - Create a band stack
 <br>
 <br>
+<br> 
 
 ###### After preprocessing your data can look like these examples:
 <img src="images/s2_tcc-fcc.png" alt="Sentinel-2 true colour composite (left) & false colour composite (rigth)" width="1920">
@@ -126,13 +139,13 @@ RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
 ## 4. Calculate NDVI & NDWI
 <br>
 
-The *Normalized Difference Vegetation Index (NDVI)* is an indicator of healthy vegetation and thus closely linked to vegetation density and productivity (Tucker & Sellers 1986). The NDVI is calculated using the spectral reflectance measurements of the red and infrared (NIR) wavelength and can range from -1 to +1.
+The **Normalized Difference Vegetation Index (NDVI)** is an indicator of healthy vegetation and thus closely linked to vegetation density and productivity (Tucker & Sellers 1986). The NDVI is calculated using the spectral reflectance measurements of the red and infrared (NIR) wavelength and can range from -1 to +1.
 
 > NDVI = ( NIR – red ) / ( NIR + red )
   
 <br>
 
-The *Normalized Difference Water Index* is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
+The **Normalized Difference Water Index** is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
 
 The NDWI results from the following equation: 
 > NDWI = ( NIR - MIR ) / ( NIR + MIR ) 
