@@ -11,7 +11,8 @@ We are using the Semi-Automatic Classification Plugin.
 
 
 #### Technical requirments
-- Download and install QGIS 2.16 Long Term Release ([Link to download](https://qgis.org/en/site/forusers/download.html)) 
+- QGIS 3.10 or higher
+   - If you need QGIS you can [download QGIS 3.16 Long Term Release here](https://qgis.org/en/site/forusers/download.html) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/QGIS_logo_2017.png" alt="QGIS logo" width="75"><br>
 - Account for the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) 
    - If you need an account you can [register here](https://scihub.copernicus.eu/dhus/#/self-registration) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/openhub_service.svg" alt="Copernicus Open Access Hub logo" width="30">
@@ -108,16 +109,16 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
 > User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
 - Switch to the *Search* tab & set the search parameters
-    - Select a a *Product* 
-    - Select a temporal range with *Date from*
-    - Define *Max cloud cover*
+    - Select a "*Product*" 
+    - Select a temporal range with "*Date from*"
+    - Define "*Max cloud cover*"
     - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
       - left-hand click = upper left corner
       - rigth-hand click = lower rigth corner
  
 - Select a appropriate Sentinel-2 scene i.e. 6 April 2021 
   
-- Now we click to the *Download options* tab
+- Now we click to the "*Download options*" tab
   - the check boxes of all Sentinel-2 bands need to be activated
   
   
