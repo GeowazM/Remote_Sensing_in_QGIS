@@ -99,26 +99,29 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
   
 ## 2. Download Sentinel-2 data
 
- - After installing of the SCP take care that the plugin is acivated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
+ - After installing the SCP take care that the plugin is activated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
  - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
   
-> Donwload products <br>
+> Donwload products <br> &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+  
 > Login data <br>
 > Login Sentinels <br>
 > Service: https://scihub.copernicus.eu/apihub <br>
 > User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
-- Switch to the *Search* tab & set the search parameters
+- Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+  
     - Select a "*Product*" 
-    - Select a temporal range with "*Date from*"
+    - Set a "*Date from*"
     - Define "*Max cloud cover*"
     - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
       - left-hand click = upper left corner
       - rigth-hand click = lower rigth corner
  
-- Select a appropriate Sentinel-2 scene i.e. 6 April 2021 
+- Select a appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021 
   
-- Now we click to the "*Download options*" tab
+- Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+  
   - the check boxes of all Sentinel-2 bands need to be activated
   
   
