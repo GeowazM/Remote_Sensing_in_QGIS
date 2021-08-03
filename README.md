@@ -19,6 +19,17 @@ We are using the Semi-Automatic Classification Plugin.
 
 <br>
 
+**Hint:** To ease the installation of the requirements use [*ANACONDA*](https://www.anaconda.com/products/individual). <br>
+&nbsp;&nbsp;Create an environment i.e. *rs4gis*, install 
+  - python 3.8, 
+  - [Numpy](https://anaconda.org/anaconda/numpy), 
+  - [SciPy](https://anaconda.org/anaconda/scipy), 
+  - [Matplotlib](https://anaconda.org/conda-forge/matplotlib) and 
+  - [QGIS](https://anaconda.org/conda-forge/qgis)
+ 
+
+<br>
+
 ---
 
 <br>
@@ -46,9 +57,9 @@ The List of **World Heritage in Danger** is designed to inform the international
 
 ## What is the Semi-Automatic Classification Plugin?
 
-**The Semi-Automatic Classification Plugin (SCP) is a free open source plugin for QGIS that allows for the supervised classification of remote sensing images, providing tools for the download, the preprocessing and postprocessing of images (Congedo 2020).**
+**The Semi-Automatic Classification Plugin (SCP) is a free open source plugin for QGIS that allows for the supervised classification of remote sensing data and offer functionalities to download, preprocessing and postprocessing of images.**
 
-The overall objective of SCP is to provide a set of intertwined tools for raster processing in order to make an automatic workflow and ease the land cover classification, which could be performed also by people whose main field is not remote sensing (Congedo 2020).
+The overall objective of SCP is to provide a set of functions for raster processing to enable an automatic workflow and ease generation of land cover classifications, especially for beginners of remote sensing methods (Congedo Luca 2020).
 
 <br>
 
@@ -63,8 +74,10 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
      
 <div align="left">
 
-   Search and download is available for ASTER, GOES, Landsat, MODIS, Sentinel-1, Sentinel-2, and Sentinel-3 images. Several algorithms are available for the land cover classification. This plugin requires the installation of GDAL, OGR, Numpy, SciPy, and Matplotlib. Some tools require also the installation of SNAP (ESA Sentinel Application Platform) (Congedo 2020).
+Search and download is available for ASTER, GOES, Landsat, MODIS, Sentinel-1, Sentinel-2, and Sentinel-3 images. Several algorithms are available for the land cover classification. The SCP requires the installation of GDAL, OGR, [Numpy](https://numpy.org/install/), [SciPy](https://www.scipy.org/) and [Matplotlib](https://matplotlib.org/). Some tools i.e. the Random Forest classifier require also the installation of [ESA's SNAP](https://step.esa.int/main/toolboxes/snap/) (Congedo 2020).
 
+ 
+###### For more detail read:   
 *Congedo Luca (2020). Semi-Automatic Classification Plugin Documentation. DOI: http://dx.doi.org/10.13140/RG.2.2.25480.65286/1*
 
 <br>
@@ -73,7 +86,7 @@ The overall objective of SCP is to provide a set of intertwined tools for raster
 ---
 
   
-#### The steps to achieve our goal
+### The steps to achieve our goal
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
 3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
@@ -109,7 +122,7 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
 > Service: https://scihub.copernicus.eu/apihub <br>
 > User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
-- Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/scp/scp_download_search_button.PNG" alt="SCP download tab search button" width="70">
+- Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/scp/scp_download_search_button.PNG" alt="SCP download tab search button" width="65">
   
     - Select a "*Product*" 
     - Set a "*Date from*"
@@ -118,9 +131,9 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
       - left-hand click = upper left corner
       - rigth-hand click = lower rigth corner
  
-- Select a appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021 
+- Select an appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021 
   
-- Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="100">
+- Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="110">
   
   - the check boxes of all Sentinel-2 bands need to be activated
   
@@ -131,9 +144,7 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
 </div>
   
   
-  
-RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
-<br>
+  <br>
 <br>
 <br>
    
