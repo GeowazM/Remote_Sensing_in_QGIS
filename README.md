@@ -102,14 +102,14 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
  - After installing the SCP take care that the plugin is activated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
  - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
   
-> Donwload products <br> &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+> Donwload products &nbsp;&nbsp; <img src="images/scp/scp_download_login-data_button.PNG" alt="SCP download tab login button" width="80">
   
 > Login data <br>
 > Login Sentinels <br>
 > Service: https://scihub.copernicus.eu/apihub <br>
 > User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
-- Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+- Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/scp/scp_download_search_button.PNG" alt="SCP download tab search button" width="70">
   
     - Select a "*Product*" 
     - Set a "*Date from*"
@@ -120,9 +120,16 @@ Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30
  
 - Select a appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021 
   
-- Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+- Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="100">
   
   - the check boxes of all Sentinel-2 bands need to be activated
+  
+Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 sec) and install the SCP plugin.
+  
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp_screen.PNG" alt="SCP download Sentinel-2 data" width="750"></a>
+</div>
+  
   
   
 RT_L1C_T35RQQ_A030234_20210406T085029_B0stack_raster
