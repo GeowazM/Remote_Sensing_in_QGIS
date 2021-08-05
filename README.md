@@ -197,7 +197,15 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 > - Set the *Extent* to *Same as* one of the used bands
 > - Use the formula above to calculate the NDVI & NDWI
 
+ 
+<br> 
   
+###### After preprocessing your data can look like these examples:
+<img src="images/s2_ndvo-ndwi.png" alt="Sentinel-2 NDVI (left) & NDWI (rigth)" width="1920">
+  
+<br>
+<br>
+
 #### Have a look on the whole Sentinel-2 scene. What show us the NDVI?  
   
 <br>
@@ -207,18 +215,17 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 <br>  
   
 #### Have a look on Abu Mena. Can you explain the difference between the two spectral indices?  
-  
-  
-<br> 
-<br> 
-  
-###### After preprocessing your data can look like these examples:
-<img src="images/s2_ndvo-ndwi.png" alt="Sentinel-2 NDVI (left) & NDWI (rigth)" width="1920">
-  
+    
 
 <br>
 <br>
 
+## 5. Perform a classification
+  
+  
+  
+  
+---   
      
 More information & tutorials:
 - [SCP blog](https://fromgistors.blogspot.com/)
