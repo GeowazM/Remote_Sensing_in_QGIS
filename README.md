@@ -20,7 +20,7 @@ or the
 <br>&nbsp;
 
 **Hint:** To ease the installation of the requirements use [*ANACONDA*](https://www.anaconda.com/products/individual). <br>
-&nbsp;&nbsp;Create an environment i.e. *rs4gis*, install 
+&nbsp;&nbsp;Create an environment i.e. *rs4gis* and install 
   - python 3.8, 
   - [Numpy](https://anaconda.org/anaconda/numpy), 
   - [SciPy](https://anaconda.org/anaconda/scipy), 
