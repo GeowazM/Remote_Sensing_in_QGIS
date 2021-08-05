@@ -198,7 +198,11 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 > - Use the formula above to calculate the NDVI & NDWI
 
   
-#### What show us the NDVI for the World Heritage Site of Abu Mena?  
+###### Have a look on the whole Sentinel-2 scene. What show us the NDVI?  
+<br>
+###### Are there differences of the NDVI & NDWI?
+<br>  
+###### Have a look on Abu Mena. Can you explain the difference between the two spectral indices?  
   
   
 <br> 
