@@ -99,7 +99,7 @@ Search and download is available for ASTER, GOES, Landsat, MODIS, Sentinel-1, Se
 ## 1. Install the Semi-Automatic Classification Plugin (SCP)
 <br>
   
-Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 sec) and install the SCP plugin.
+Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 sec) and follow the instructions to install the SCP plugin.
   
 <div align="center">
   <a href="https://www.youtube.com/watch?v=R613_HqT4qo"><img src="images/scp_screen.PNG" alt="Install SCP" width="750"></a>
