@@ -116,7 +116,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 ## 2. Download Sentinel-2 data
 
  - After installing the SCP take care that the plugin is activated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
- - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
+ - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="40">
 
 ###### The *Download products* tab have 3 subtabs: 
   - I. *Login data* 
@@ -158,7 +158,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 
 ## 3. Create band set / Preprocess Sentinel-2 data
 
-Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="30"><br>
+Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="40"><br>
 > To update the *Single band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
 > Now the layers of the QGIS project are visible in the *Single band list*<br>
 > Highligth the Sentinel-2 bands and add it to the *Band set definition* with &nbsp; <img src="images/scp/scp_add_button.png" alt="SCP add button" width="30"><br>
@@ -190,7 +190,7 @@ The NDWI results from the following equation:
 
 <br> 
   
-To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_calc.PNG" alt="SCP band calculator button" width="30">
+To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_calc.PNG" alt="SCP band calculator button" width="40">
 > To update the *Band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
 > - With double click you can add a band to the expression field
 > - On the lower rigth side are the operators, i.e. +
