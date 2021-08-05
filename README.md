@@ -27,6 +27,9 @@ or the
   - [Matplotlib](https://anaconda.org/conda-forge/matplotlib) and 
   - [QGIS](https://anaconda.org/conda-forge/qgis)
  
+###### Here you can find two tutorials to install the software Anaconda
+- [How to install Anaconda](https://www.youtube.com/watch?v=D1iSy8fhsl0&list=PL3NiwHdo_mtBr7WgiZEJ1eCn9G93N71zc)
+- [How to install QGIS with Anaconda](https://www.youtube.com/watch?v=AtnttogusIU&list=PL3NiwHdo_mtBr7WgiZEJ1eCn9G93N71zc&index=2)
 
 <br>
 
