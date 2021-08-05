@@ -7,17 +7,17 @@ We are using the Semi-Automatic Classification Plugin.
 - Basics in remote sensing
 - Basics in QGIS
   - [What is GIS, and why use QGIS?](https://www.youtube.com/watch?v=8oEnJvLzDnQ) (5 min)
-  - [QGIS for Absolute Beginners](https://www.youtube.com/watch?v=kCnNWyl9qSE) (30 min)
+  - [QGIS for Absolute Beginners](https://www.youtube.cInstallom/watch?v=kCnNWyl9qSE) (30 min)
 or the 
 
 #### Technical requirments
 - QGIS 3.10 or higher
-   - If you need QGIS you can [download QGIS 3.16 Long Term Release here](https://qgis.org/en/site/forusers/download.html) 
+   - If you need QGIS you can [download QGIS 3.16 &nbsp;Long Term Release here](https://qgis.org/en/site/forusers/download.html) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/QGIS_logo_2017.png" alt="QGIS logo" width="75"><br>
 - Account for the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) 
-   - If you need an account you can [register here](https://scihub.copernicus.eu/dhus/#/self-registration) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/openhub_service.svg" alt="Copernicus Open Access Hub logo" width="30">
+   - If you need an account you can [register here](https://scihub.copernicus.eu/dhus/#/self-registration) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/openhub_service.svg" alt="Copernicus Open Access Hub logo" width="30">
 
-<br>
+<br>&nbsp;
 
 **Hint:** To ease the installation of the requirements use [*ANACONDA*](https://www.anaconda.com/products/individual). <br>
 &nbsp;&nbsp;Create an environment i.e. *rs4gis*, install 
@@ -66,7 +66,7 @@ The overall objective of SCP is to provide a set of functions for raster process
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=bzynTxwOcYQ&t=65s"><img src="images/SCP_video.PNG" alt="Intro to SCP" width="550"></a>
-</div>
+</div>&nbsp;
 
 
 <br>
@@ -146,7 +146,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp_download_screen.PNG" alt="Download Sentinel-2 data via SCP" width="750"></a>
+  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_download_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
 </div>
 
 
