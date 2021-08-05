@@ -7,7 +7,7 @@ We are using the Semi-Automatic Classification Plugin.
 - Basics in remote sensing
 - Basics in QGIS
   - [What is GIS, and why use QGIS?](https://www.youtube.com/watch?v=8oEnJvLzDnQ) (5 min)
-  - [QGIS for Absolute Beginners](https://www.youtube.cInstallom/watch?v=kCnNWyl9qSE) (30 min)
+  - [QGIS for Absolute Beginners](https://www.youtube.cInstallo750m/watch?v=kCnNWyl9qSE) (30 min)
 or the 
 
 #### Technical requirments
@@ -141,7 +141,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 *Hint: Select an appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021* 
 
 ###### With tab III. *Download options* we are able to download the data directly in QGIS 
-<img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120">
+<img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120"> <br>
 >  - the check boxes of all Sentinel-2 bands need to be activated
 
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
