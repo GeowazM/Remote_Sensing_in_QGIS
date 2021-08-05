@@ -115,53 +115,41 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
  - After installing the SCP take care that the plugin is activated. &nbsp;&nbsp; <img src="images/plugin_avtivated.PNG" alt="Plugin activated" width="180"><br>
  - Start to open the *Download products* tab of the SCP with &nbsp;&nbsp; <img src="images/download_data.PNG" alt="SCP download button" width="30">
 
-###### The *Download products* tab have 3 subtabs: I. *Login data*, II. *Search* and III. *Download options*
-> Donwload products &nbsp;&nbsp; <img src="images/scp/scp_download_login-data_button.PNG" alt="SCP download tab login button" width="80">
+###### The *Download products* tab have 3 subtabs: 
+  - I. *Login data* 
+  - II. *Search* 
+  - III. *Download options*
+
+<br>
   
-> I. Login data <br>
+###### Let's start with the I. *Login data* tab
+
+> <img src="images/scp/scp_download_login-data_button.PNG" alt="SCP download tab login button" width="90"><br>
 > Login Sentinels <br>
 > Service: https://scihub.copernicus.eu/apihub <br>
-> User & Passwor: Your [personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
+> User & Passwor: [Your personal account](https://scihub.copernicus.eu/dhus/#/self-registration) <br>
 
-- II. Switch to the *Search* tab & set the search parameters &nbsp;&nbsp; <img src="images/scp/scp_download_search_button.PNG" alt="SCP download tab search button" width="65">
-  
-    - Select a "*Product*" 
-    - Set a "*Date from*"
-    - Define "*Max cloud cover*"
-    - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30">
-      - left-hand click = upper left corner
-      - rigth-hand click = lower rigth corner
+###### Now we continue with II. *Search* tab
+> <img src="images/scp/scp_download_search_button.PNG" alt="SCP download tab search button" width="75"><br>
+>    - Select a "*Product*" <br>
+>   - Set a "*Date from*" <br>
+>    - Define "*Max cloud cover*" <br>
+>    - Set an rectangular area of interest with &nbsp; <img src="images/scp_aoi_button.PNG" alt="SCP aoi button" width="30"> <br>
+>      - left-hand click = upper left corner <br>
+>      - rigth-hand click = lower rigth corner <br>
  
-- Select an appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021 
-  
-- III. Now we click to the "*Download options*" tab &nbsp;&nbsp; <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="110">
-  
-  - the check boxes of all Sentinel-2 bands need to be activated
-  
-Watch this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 sec) and install the SCP plugin.
-142
-  
-143
+*Hint: Select an appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021* 
+
+###### With tab III. *Download options* we are able to download the data directly in QGIS 
+<img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120">
+>  - the check boxes of all Sentinel-2 bands need to be activated
+
+###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
-144
-  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp_screen.PNG" alt="SCP download Sentinel-2 data" width="750"></a>
-145
+  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp_download_screen.PNG" alt="Download Sentinel-2 data via SCP" width="750"></a>
 </div>
-146
-  
-147
-  
-148
-  <br>
-149
-<br>
-150
-<br>
-151
-   
-152
-conda install -c conda-forge matplotlib
-   
+
+
 ## 3. Preprocess Sentinel-2 data
 - Create a band stack
 <br>
