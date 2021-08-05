@@ -57,7 +57,7 @@ The List of **World Heritage in Danger** is designed to inform the international
 
 ## What is the Semi-Automatic Classification Plugin?
 
-**The Semi-Automatic Classification Plugin (SCP) is a free open source plugin for QGIS that allows for the supervised classification of remote sensing data and offer functionalities to download, preprocessing and postprocessing of images.**
+**The Semi-Automatic Classification Plugin (SCP) is a free open source plugin for QGIS that allows supervised classifications of remote sensing data and offer functionalities to download, pre- and postprocesss imagery.**
 
 The overall objective of SCP is to provide a set of functions for raster processing to enable an automatic workflow and ease generation of land cover classifications, especially for beginners of remote sensing methods (Congedo Luca 2020).
 
