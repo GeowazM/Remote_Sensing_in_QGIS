@@ -144,12 +144,14 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120"> <br>
 >  - the check boxes of all Sentinel-2 bands need to be activated
 
+<br>  
+  
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
   <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_download_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
 </div>
 
-750<br>
+<br>
 
 ## 3. Preprocess Sentinel-2 data
 - Create a band stack
