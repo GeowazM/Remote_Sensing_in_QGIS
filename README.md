@@ -151,20 +151,22 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
   
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_download_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
+  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
 </div>
 
 <br>
 
 ## 3. Create band set / Preprocess Sentinel-2 data
-- Create a band stack
-<br>
 
 Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="30"><br>
+> To update the *Single band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
+> Now the layers of the QGIS project are visible in the *Single band list*<br>
+> - Highligth the Sentinel-2 bands and add it to the *Band set definition* with &nbsp; <img src="images/scp/scp_add_button.png" alt="SCP add button" width="30"><br>
+> - The *Band set 1* now includes the Senintel-2 bands. <br>
+> - Set the correct satellite setting to the band list via *Wavelength quick settings* <br>
+> - To create a *band set* check the "Create raster of bands (stack bands)" option within the *Band set tools*
 
-  
-<br>
-<br>
+
 <br> 
 
 ###### After preprocessing your data can look like these examples:
