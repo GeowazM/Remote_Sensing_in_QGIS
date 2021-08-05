@@ -51,7 +51,7 @@ The List of **World Heritage in Danger** is designed to inform the international
 
 ### The steps to achieve our goal
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
-2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
+2. Download [Sentinel-2](https://blogs.fu-berlin.de/reseda/sentinel-2/) data
 3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
 4. Calculate [NDVI](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9142/19518_read-45426/) & [NDWI](https://foodsecurity-tep.net/node/214)
 5. Perform an [image classification](https://gisgeography.com/image-classification-techniques-remote-sensing/)
@@ -190,7 +190,16 @@ The NDWI results from the following equation:
 
 <br> 
   
-&nbsp; <img src="images/band_calc.PNG" alt="SCP band calculator button" width="30">
+To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_calc.PNG" alt="SCP band calculator button" width="30">
+> To update the *Band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
+> - With double click you can add a band to the expression field
+> - On the lower rigth side are the operators, i.e. +
+> - Set the *Extent* to *Same as* one of the used bands
+> - Use the formula above to calculate the NDVI & NDWI
+
+  
+#### What show us the NDVI for the World Heritage Site of Abu Mena?  
+  
   
 <br> 
 <br> 
