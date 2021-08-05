@@ -149,6 +149,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
   <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_download_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
 </div>
 
+750<br>
 
 ## 3. Preprocess Sentinel-2 data
 - Create a band stack
