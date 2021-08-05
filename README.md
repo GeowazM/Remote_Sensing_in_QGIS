@@ -8,7 +8,7 @@ We are using the Semi-Automatic Classification Plugin.
 - Basics in QGIS
   - [What is GIS, and why use QGIS?](https://www.youtube.com/watch?v=8oEnJvLzDnQ) (5 min)
   - [QGIS for Absolute Beginners](https://www.youtube.com/watch?v=kCnNWyl9qSE) (30 min)
-
+or the 
 
 #### Technical requirments
 - QGIS 3.10 or higher
@@ -46,14 +46,14 @@ The List of **World Heritage in Danger** is designed to inform the international
  
 <br>
 
-#### The steps to achieve our goal
+### The steps to achieve our goal
 1. Install the  [Semi-Automatic Classification Plugin](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) for QGIS
 2. Download [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) data
 3. [Preprocess](https://rscc.umn.edu/lessons/lessonpre) the Sentinel-2 data
 4. Calculate [NDVI](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9142/19518_read-45426/) & [NDWI](https://foodsecurity-tep.net/node/214)
 5. Perform an [image classification](https://gisgeography.com/image-classification-techniques-remote-sensing/)
 
-
+<br>
 
 ## What is the Semi-Automatic Classification Plugin?
 
@@ -77,11 +77,11 @@ The overall objective of SCP is to provide a set of functions for raster process
 Search and download is available for ASTER, GOES, Landsat, MODIS, Sentinel-1, Sentinel-2, and Sentinel-3 images. Several algorithms are available for the land cover classification. The SCP requires the installation of GDAL, OGR, [Numpy](https://numpy.org/install/), [SciPy](https://www.scipy.org/) and [Matplotlib](https://matplotlib.org/). Some tools i.e. the Random Forest classifier require also the installation of [ESA's SNAP](https://step.esa.int/main/toolboxes/snap/) (Congedo 2020).
 
  
-###### For more detail read:   
+###### If you want to have more detail read:   
 *Congedo Luca (2020). Semi-Automatic Classification Plugin Documentation. DOI: http://dx.doi.org/10.13140/RG.2.2.25480.65286/1*
+###### Or have a look on the SCP websites
+- *[SCP blog](https://fromgistors.blogspot.com/)*
 
-<br>
-<br>
 
 ---
 
@@ -174,7 +174,7 @@ The **Normalized Difference Vegetation Index (NDVI)** is an indicator of healthy
 <br>
 
 The **Normalized Difference Water Index** is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
-
+or the 
 The NDWI results from the following equation: 
 > NDWI = ( NIR - MIR ) / ( NIR + MIR ) 
 
