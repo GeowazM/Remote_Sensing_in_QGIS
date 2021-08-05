@@ -156,11 +156,12 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 
 <br>
 
-## 3. Preprocess Sentinel-2 data
+## 3. Create band set / Preprocess Sentinel-2 data
 - Create a band stack
 <br>
-  
-&nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="30">
+
+Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="30"><br>
+
   
 <br>
 <br>
