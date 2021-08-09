@@ -222,7 +222,10 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 
 ## 5. Perform a classification
   
-  
+###### Here you can find a video tutorial (5 min). Open this video in a new tab.
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LmDcVCeX7do&t=6s"><img src="images/scp/scp_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
+</div> 
   
   
 ---   
