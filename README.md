@@ -196,7 +196,7 @@ The **Normalized Difference Vegetation Index (NDVI)** is an indicator of healthy
   
 <br>
 
-The **Normalized Difference Water Index** is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
+The **Normalized Difference Water Index (NDWI)** is sensitive to the water content of vegetation and is similar to the NDVI. High NDWI values indicate a high water content of the vegetation. (Gao, B.C., Remote Sensing of the Environment, p.257(1996)). For Sentinel-2 data the NDWI needs Band 8 (NIR) and Band 12 (MIR). 
 or the 
 The NDWI results from the following equation: 
 > NDWI = ( NIR - MIR ) / ( NIR + MIR ) 
