@@ -151,7 +151,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
   
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
+  <a href="https://www.youtube.com/watch?v=5lN3cajkT0M&t=3s"><img src="images/scp/scp_download_preview.PNG" alt="Download Sentinel-2 data via SCP" width="750"></a>
 </div>
 
 <br>
