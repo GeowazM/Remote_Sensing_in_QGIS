@@ -171,7 +171,7 @@ Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP
 
 <br> 
   
-#### Clip Sentinel-2 band set  
+#### Clip band set  
 ###### Here you can find a video tutorial (1 min) to clip a band set. Open this video in a new tab.
 <div align="center">
   <a href="https://www.youtube.com/watch?v=jkPWXKlmZtE"><img src="images/scp/clip.PNG" alt="clip Sentinel-2 data" width="750"></a>
