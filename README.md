@@ -144,7 +144,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 *Hint: Select an appropriate Sentinel-2 scene i.e. the Abu Mena image from 6 April 2021* 
 
 ###### With tab III. *Download options* we are able to download the data directly in QGIS 
-<img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120"> <br>
+> <img src="images/scp/scp_download_download-options_button.PNG" alt="SCP download options button" width="120"> <br>
 >  - the check boxes of all Sentinel-2 bands need to be activated
 
 <br>  
