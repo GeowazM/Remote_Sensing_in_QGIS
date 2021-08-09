@@ -238,11 +238,12 @@ The video below will show you how to classify a satellite image. This includes:
   
 ---   
      
-More information & tutorials:
-- [SCP blog](https://fromgistors.blogspot.com/)
-- [SCP youtube channel](https://www.youtube.com/user/fromgistors)
 
-   
+
+<div align="center">
+<img src="/images/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
+</div>
+
 <br>
 <br>
 <br>
