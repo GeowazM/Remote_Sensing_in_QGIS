@@ -155,6 +155,8 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 </div>
 
 <br>
+<br>
+<br> 
 
 ## 3. Create band set / Preprocess Sentinel-2 data
 
@@ -173,6 +175,8 @@ Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP
 <img src="images/s2_tcc-fcc.png" alt="Sentinel-2 true colour composite (left) & false colour composite (rigth)" width="1920">
   
 <br>
+<br>
+<br> 
    
 ## 4. Calculate NDVI & NDWI
 <br>
@@ -219,6 +223,7 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 
 <br>
 <br>
+<br> 
 
 ## 5. Perform a classification
 
@@ -249,6 +254,8 @@ The video below will show you how to classify a satellite image. This includes:
   
 
 <br>
+<br>
+<br> 
   
   
 ---   
