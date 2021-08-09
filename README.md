@@ -159,7 +159,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 <br> 
 
 ## 3. Create band set & clip the scene
-
+#### Create band set
 Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="40"><br>
 > To update the *Single band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
 > Now the layers of the QGIS project are visible in the *Single band list*<br>
@@ -171,11 +171,13 @@ Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP
 
 <br> 
   
-###### Here you can find a video tutorial (1 min). Open this video in a new tab.
+#### Clip Sentinel-2 band set  
+###### Here you can find a video tutorial (1 min) to clip a band set. Open this video in a new tab.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=jkPWXKlmZtE"><img src="images/scp/scp_download_preview.PNG" alt="Download Sentinel-2 data via SCP" width="750"></a>
+  <a href="https://www.youtube.com/watch?v=jkPWXKlmZtE"><img src="images/scp/clip.PNG" alt="clip Sentinel-2 data" width="750"></a>
 </div>
 
+<br> 
 <br>  
 
 ###### After preprocessing your data can look like these examples:
