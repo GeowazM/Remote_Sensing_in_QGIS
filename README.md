@@ -82,7 +82,7 @@ Search and download is available for ASTER, GOES, Landsat, MODIS, Sentinel-1, Se
  
 ###### If you want to have more detail read:   
 *Congedo Luca (2020). Semi-Automatic Classification Plugin Documentation. DOI: http://dx.doi.org/10.13140/RG.2.2.25480.65286/1*
-###### Or have a look on the SCP websites
+###### Or have a look on the SCP website
 - *[SCP blog](https://fromgistors.blogspot.com/)*
 
 
