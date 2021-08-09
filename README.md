@@ -221,10 +221,18 @@ To calculate a spectral index with the SCP use the &nbsp; <img src="images/band_
 <br>
 
 ## 5. Perform a classification
+
+The SCP offers a set of useful tools during the classification process, i.e. the preview.
+  
+The video below will show you how to classify a satellite image. This includes:  
+- Create training data
+- Show spectral signature
+- Preview the classification and compare different classifiers
+- Classify the image
   
 ###### Here you can find a video tutorial (5 min). Open this video in a new tab.
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=LmDcVCeX7do&t=6s"><img src="images/scp/scp_screen.png" alt="Download Sentinel-2 data via SCP" width="1290"></a>
+  <a href="https://www.youtube.com/watch?v=LmDcVCeX7do&t=6s"><img src="images/scp/classification.PNG" alt="Classify Sentinel-2 scene via SCP" width="1290"></a>
 </div> 
   
   
