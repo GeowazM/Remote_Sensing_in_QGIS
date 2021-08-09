@@ -235,13 +235,28 @@ The video below will show you how to classify a satellite image. This includes:
   <a href="https://www.youtube.com/watch?v=LmDcVCeX7do&t=6s"><img src="images/scp/classification.PNG" alt="Classify Sentinel-2 scene via SCP" width="1290"></a>
 </div> 
   
+<br>
+<br>
+
+#### Which classes show the highest errors or rather are difficult to distinguish?
+###### Hint: Use the spectral signature graph  
+
+<br>
+  
+  
+#### Which classes show a wide range of values?  
+
+  
+
+<br>
+  
   
 ---   
      
 
 
 <div align="center">
-<img src="/images/rgeo_unesco-chair_uni-hd_v2.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
+<img src="/images/rgeo_unesco-chair_uni-hd.jpg" width="750" alt="rgeo Heidelberg University of Education"/>
 </div>
 
 <br>
