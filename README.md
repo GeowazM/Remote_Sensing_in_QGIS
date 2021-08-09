@@ -158,7 +158,7 @@ Open this [video](https://www.youtube.com/watch?v=R613_HqT4qo) in a new tab (30 
 <br>
 <br> 
 
-## 3. Create band set / Preprocess Sentinel-2 data
+## 3. Create band set & clip the scene
 
 Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP band stack button" width="40"><br>
 > To update the *Single band list* click on  &nbsp; <img src="images/scp/scp_update_button.png" alt="SCP update button" width="30"><br>
@@ -170,6 +170,13 @@ Open the *band set* window with &nbsp; <img src="images/band_stack.PNG" alt="SCP
 
 
 <br> 
+  
+###### Here you can find a video tutorial (1 min). Open this video in a new tab.
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jkPWXKlmZtE"><img src="images/scp/scp_download_preview.PNG" alt="Download Sentinel-2 data via SCP" width="750"></a>
+</div>
+
+<br>  
 
 ###### After preprocessing your data can look like these examples:
 <img src="images/s2_tcc-fcc.png" alt="Sentinel-2 true colour composite (left) & false colour composite (rigth)" width="1920">
