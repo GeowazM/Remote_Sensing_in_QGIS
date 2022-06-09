@@ -6,9 +6,9 @@ We are using the Semi-Automatic Classification Plugin.
 #### Skills needed
 - Basics in remote sensing
 - Basics in QGIS
-  - [What is GIS, and why use QGIS?](https://www.youtube.com/watch?v=8oEnJvLzDnQ) (5 min)
+  - [What is GIS, and why use QGIS?](https://www.youtube.com/watch?v=8oEnJvLzDnQ) (5 min) or the
   - [QGIS for Absolute Beginners](https://www.youtube.cInstallo750m/watch?v=kCnNWyl9qSE) (30 min)
-or the 
+
 
 #### Technical requirments
 - QGIS 3.10 or higher
@@ -20,7 +20,7 @@ or the
 <br>&nbsp;
 
 **Hint:** To ease the installation of the requirements use [*ANACONDA*](https://www.anaconda.com/products/individual). <br>
-&nbsp;&nbsp;Create an environment i.e. *rs4gis* and install 
+&nbsp;&nbsp;Create an environment i.e. with the name *rs4gis* and install 
   - python 3.8, 
   - [Numpy](https://anaconda.org/anaconda/numpy), 
   - [SciPy](https://anaconda.org/anaconda/scipy), 
