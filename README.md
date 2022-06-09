@@ -276,8 +276,5 @@ The video below will show you how to classify a satellite image. This includes:
 </div>
 
 <br>
-<br>
-<br>
-
   
 </div>
